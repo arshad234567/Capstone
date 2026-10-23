@@ -1,0 +1,5 @@
+fault_type,detector,precision,recall,f1
+spike,Autoencoder,0.016313702,0.872,0.032028208
+drift,Autoencoder,0.007258849,0.388,0.014251084
+stuck,Temporal rule,0.492323439,0.962,0.651320244
+missing,Missingness rule,1,1,1
